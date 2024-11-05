@@ -1,0 +1,299 @@
+[
+    {
+        "code": "21",
+        "name": "KEPULAUAN RIAU",
+        "level": "provinsi",
+        "kabupaten": [
+            {
+                "code": "21.01",
+                "name": "KAB. BINTAN",
+                "level": "kabupaten",
+                "kecamatan": [
+                  {
+                    "code": "21.01.04",
+                    "name": "Gunung Kijang",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.04.2001", "name": "Gunung Kijang", "level": "desa" },
+                      { "code": "21.01.04.2002", "name": "Malang Rapat", "level": "desa" },
+                      { "code": "21.01.04.2003", "name": "Teluk Bakau", "level": "desa" },
+                      { "code": "21.01.04.1005", "name": "Kawal", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.06",
+                    "name": "Bintan Timur",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.06.1008", "name": "Kijang Kota", "level": "desa" },
+                      { "code": "21.01.06.1009", "name": "Sungai Lekop", "level": "desa" },
+                      { "code": "21.01.06.1010", "name": "Gunung Lengkuas", "level": "desa" },
+                      { "code": "21.01.06.1011", "name": "Sungai Enam", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.07",
+                    "name": "Bintan Utara",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.07.1001", "name": "Tanjung Uban Kota", "level": "desa" },
+                      { "code": "21.01.07.1002", "name": "Tanjung Uban Utara", "level": "desa" },
+                      { "code": "21.01.07.1003", "name": "Tanjung Uban Selatan", "level": "desa" },
+                      { "code": "21.01.07.2005", "name": "Lancang Kuning", "level": "desa" },
+                      { "code": "21.01.07.1011", "name": "Tanjung Uban Timur", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.08",
+                    "name": "Teluk Bintan",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.08.2001", "name": "Bintan Buyu", "level": "desa" },
+                      { "code": "21.01.08.2002", "name": "Pangkil", "level": "desa" },
+                      { "code": "21.01.08.2003", "name": "Penaga", "level": "desa" },
+                      { "code": "21.01.08.2004", "name": "Pengujan", "level": "desa" },
+                      { "code": "21.01.08.2005", "name": "Tembeling", "level": "desa" },
+                      { "code": "21.01.08.1006", "name": "Tembeling Tanjung", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.09",
+                    "name": "Tambelan",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.09.1001", "name": "Teluk Sekuni", "level": "desa" },
+                      { "code": "21.01.09.2002", "name": "Batu Lepuk", "level": "desa" },
+                      { "code": "21.01.09.2003", "name": "Kampung Hilir", "level": "desa" },
+                      { "code": "21.01.09.2004", "name": "Kampung Melayu", "level": "desa" },
+                      { "code": "21.01.09.2005", "name": "Pulau Mentebung", "level": "desa" },
+                      { "code": "21.01.09.2006", "name": "Pulau Pinang", "level": "desa" },
+                      { "code": "21.01.09.2007", "name": "Kukup", "level": "desa" },
+                      { "code": "21.01.09.2008", "name": "Pengikik", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.10",
+                    "name": "Telok Sebong",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.10.2001", "name": "Berakit", "level": "desa" },
+                      { "code": "21.01.10.2002", "name": "Ekang Anculai", "level": "desa" },
+                      { "code": "21.01.10.2003", "name": "Pengudang", "level": "desa" },
+                      { "code": "21.01.10.2004", "name": "Sebong Lagoi", "level": "desa" },
+                      { "code": "21.01.10.2005", "name": "Sebong Pereh", "level": "desa" },
+                      { "code": "21.01.10.2006", "name": "Sri Bintan", "level": "desa" },
+                      { "code": "21.01.10.1007", "name": "Kota Baru", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.12",
+                    "name": "Toapaya",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.12.2001", "name": "Toapaya", "level": "desa" },
+                      { "code": "21.01.12.2002", "name": "Toapaya Utara", "level": "desa" },
+                      { "code": "21.01.12.2003", "name": "Toapaya Selatan", "level": "desa" },
+                      { "code": "21.01.12.1004", "name": "Toapaya Asri", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.13",
+                    "name": "Mantang",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.13.2001", "name": "Mantang Baru", "level": "desa" },
+                      { "code": "21.01.13.2002", "name": "Mantang Besar", "level": "desa" },
+                      { "code": "21.01.13.2003", "name": "Mantang Lama", "level": "desa" },
+                      { "code": "21.01.13.2004", "name": "Dendun", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.14",
+                    "name": "Bintan Pesisir",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.14.2001", "name": "Kelong", "level": "desa" },
+                      { "code": "21.01.14.2002", "name": "Mapur", "level": "desa" },
+                      { "code": "21.01.14.2003", "name": "Numbing", "level": "desa" },
+                      { "code": "21.01.14.2004", "name": "Air Gelubi", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.01.15",
+                    "name": "Seri Kuala Lobam",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.01.15.2001", "name": "Busung", "level": "desa" },
+                      { "code": "21.01.15.2002", "name": "Teluk Sasah", "level": "desa" },
+                      { "code": "21.01.15.1003", "name": "Teluk Lobam", "level": "desa" },
+                      { "code": "21.01.15.2004", "name": "Kuala Sempang", "level": "desa" },
+                      { "code": "21.01.15.1005", "name": "Tanjung Permai", "level": "desa" }
+                    ]
+                  }
+                ]
+            },
+            {
+                "code": "21.02",
+                "name": "KAB. KARIMUN",
+                "level": "kabupaten",
+                "kecamatan": [
+                  {
+                    "code": "21.02.01",
+                    "name": "Moro",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.01.1003", "name": "Moro", "level": "desa" },
+                      { "code": "21.02.01.2004", "name": "Pauh", "level": "desa" },
+                      { "code": "21.02.01.2005", "name": "Sugie", "level": "desa" },
+                      { "code": "21.02.01.2006", "name": "Keban", "level": "desa" },
+                      { "code": "21.02.01.2007", "name": "Selat Mie", "level": "desa" },
+                      { "code": "21.02.01.2008", "name": "Tanjung Pelanduk", "level": "desa" },
+                      { "code": "21.02.01.2009", "name": "Jang", "level": "desa" },
+                      { "code": "21.02.01.1010", "name": "Moro Timur", "level": "desa" },
+                      { "code": "21.02.01.2011", "name": "Niur Permai", "level": "desa" },
+                      { "code": "21.02.01.2012", "name": "Rawajaya", "level": "desa" },
+                      { "code": "21.02.01.2013", "name": "Buluh Patah", "level": "desa" },
+                      { "code": "21.02.01.2014", "name": "Pulaumoro", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.02",
+                    "name": "Kundur",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.02.1001", "name": "Tanjungbatu Barat", "level": "desa" },
+                      { "code": "21.02.02.1002", "name": "Tanjungbatu Kota", "level": "desa" },
+                      { "code": "21.02.02.2004", "name": "Sebesi", "level": "desa" },
+                      { "code": "21.02.02.2005", "name": "Sei Ungar", "level": "desa" },
+                      { "code": "21.02.02.2006", "name": "Lubuk", "level": "desa" },
+                      { "code": "21.02.02.1009", "name": "Gading Sari", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.03",
+                    "name": "Karimun",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.03.1001", "name": "Tanjungbalai", "level": "desa" },
+                      { "code": "21.02.03.1002", "name": "Telukair", "level": "desa" },
+                      { "code": "21.02.03.1003", "name": "Sungailakam Timur", "level": "desa" },
+                      { "code": "21.02.03.2004", "name": "Parit", "level": "desa" },
+                      { "code": "21.02.03.2005", "name": "Tulang", "level": "desa" },
+                      { "code": "21.02.03.1006", "name": "Lubuk Semut", "level": "desa" },
+                      { "code": "21.02.03.1007", "name": "Tanjungbalai Kota", "level": "desa" },
+                      { "code": "21.02.03.1008", "name": "Sungailakam Barat", "level": "desa" },
+                      { "code": "21.02.03.2009", "name": "Selatmendaun", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.04",
+                    "name": "Meral",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.04.1001", "name": "Meral Kota", "level": "desa" },
+                      { "code": "21.02.04.1002", "name": "Baran Barat", "level": "desa" },
+                      { "code": "21.02.04.1003", "name": "Sei Raya", "level": "desa" },
+                      { "code": "21.02.04.1006", "name": "Baran Timur", "level": "desa" },
+                      { "code": "21.02.04.1007", "name": "Sungai Pasir", "level": "desa" },
+                      { "code": "21.02.04.1008", "name": "Parit Benut", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.05",
+                    "name": "Tebing",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.05.1001", "name": "Tebing", "level": "desa" },
+                      { "code": "21.02.05.1002", "name": "Teluk Uma", "level": "desa" },
+                      { "code": "21.02.05.1003", "name": "Kapling", "level": "desa" },
+                      { "code": "21.02.05.1004", "name": "Pamak", "level": "desa" },
+                      { "code": "21.02.05.2007", "name": "Pongkar", "level": "desa" },
+                      { "code": "21.02.05.1008", "name": "Harjosari", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.06",
+                    "name": "Buru",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.06.1001", "name": "Buru", "level": "desa" },
+                      { "code": "21.02.06.1002", "name": "Lubuk Puding", "level": "desa" },
+                      { "code": "21.02.06.2003", "name": "Tanjung Hutan", "level": "desa" },
+                      { "code": "21.02.06.2004", "name": "Tanjung Batu Kecil", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.07",
+                    "name": "Kundur Utara",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.07.2003", "name": "Sei Ungar Utara", "level": "desa" },
+                      { "code": "21.02.07.2004", "name": "Teluk Radang", "level": "desa" },
+                      { "code": "21.02.07.2010", "name": "Perayun", "level": "desa" },
+                      { "code": "21.02.07.1012", "name": "Tanjungberlian Kota", "level": "desa" },
+                      { "code": "21.02.07.2013", "name": "Tanjungberlian Barat", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.08",
+                    "name": "Kundur Barat",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.08.1001", "name": "Sawang", "level": "desa" },
+                      { "code": "21.02.08.2002", "name": "Sawang Selatan", "level": "desa" },
+                      { "code": "21.02.08.2003", "name": "Sawang Laut", "level": "desa" },
+                      { "code": "21.02.08.2004", "name": "Kundur", "level": "desa" },
+                      { "code": "21.02.08.2005", "name": "Gemuruh", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.09",
+                    "name": "Durai",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.09.2002", "name": "Sanglar", "level": "desa" },
+                      { "code": "21.02.09.2003", "name": "Tanjung Kilang", "level": "desa" },
+                      { "code": "21.02.09.2004", "name": "Semembang", "level": "desa" },
+                      { "code": "21.02.09.2005", "name": "Telaga Tujuh", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.10",
+                    "name": "Meral Barat",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.10.1001", "name": "Pasir Panjang", "level": "desa" },
+                      { "code": "21.02.10.1002", "name": "Darussalam", "level": "desa" },
+                      { "code": "21.02.10.2003", "name": "Pangke", "level": "desa" },
+                      { "code": "21.02.10.2004", "name": "Pangke Barat", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.11",
+                    "name": "Ungar",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.11.1001", "name": "Alai", "level": "desa" },
+                      { "code": "21.02.11.2002", "name": "Batu Limau", "level": "desa" },
+                      { "code": "21.02.11.2003", "name": "Ngal", "level": "desa" },
+                      { "code": "21.02.11.2004", "name": "Sungaibuluh", "level": "desa" }
+                    ]
+                  },
+                  {
+                    "code": "21.02.12",
+                    "name": "Belat",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "21.02.12.2001", "name": "Sebele", "level": "desa" },
+                      { "code": "21.02.12.2002", "name": "Lebuh", "level": "desa" },
+                      { "code": "21.02.12.2003", "name": "Penarah", "level": "desa" },
+                      { "code": "21.02.12.2004", "name": "Sei Asam", "level": "desa" },
+                      { "code": "21.02.12.2005", "name": "Tebias", "level": "desa" },
+                      { "code": "21.02.12.2006", "name": "Degong", "level": "desa" }
+                    ]
+                  }
+                ]
+            }              
+        ]
+    }
+]
