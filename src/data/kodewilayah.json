@@ -295,5 +295,30 @@
                 ]
             }              
         ]
+    },
+    {
+        "code": "21.01.14",
+        "name": "RIAU",
+        "level": "provinsi",
+        "kabupaten": [
+            {
+                "code": "14.01",
+                "name": "KAB. KAMPAR",
+                "level": "kabupaten",
+                "kecamatan": [
+                  {
+                    "code": "14.01.01",
+                    "name": "Bangkinang Kota",
+                    "level": "kecamatan",
+                    "desa": [
+                      { "code": "14.01.01.2009", "name": "Kumantan", "level": "desa" },
+                      { "code": "14.01.01.2010", "name": "Ridan Permai", "level": "desa" },
+                      { "code": "14.01.01.1011", "name": "Bangkinang", "level": "desa" },
+                      { "code": "14.01.01.1013", "name": "Langgini", "level": "desa" }
+                    ]
+                  }
+                ]
+            }
+        ]
     }
 ]
